@@ -9,7 +9,7 @@
   <em>Give your AI assistant full access to your budget</em>
 </p>
 
-<p align="center">
+<p align="center"> 
   <code>44 tools</code> &bull;
   <code>100% API coverage</code> &bull;
   <code>YNAB API v1.83</code>
